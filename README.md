@@ -20,7 +20,7 @@ Java、Swing、Socket、IO、多线程
 
 > 程序预览
 
-![1](E:\Eclipse\SimpleChat\assets\1.jpg)
+![1](https://gitee.com/zhoututu/simple-chat/raw/master/assets/1.jpg)
 
 
 
